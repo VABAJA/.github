@@ -1,4 +1,4 @@
-## console.log('Hi there 👋 we're VABAJA')
+## Listen, Learn, Improve & Repeat.
 
 <img src="https://i.ibb.co/4N9hhFC/Logo-vabaja-sinfondo-1067x600.png">
 
